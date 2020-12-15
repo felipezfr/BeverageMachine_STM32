@@ -17,4 +17,7 @@ Se a capsula inserida for do tipo água, o usuário pode escolher a temperatura 
 
 # Montagem
 
-![]()
+![1](https://github.com/felipezfr/BeverageMachine_STM32/blob/main/Fotos/1.jpeg)
+![2](https://github.com/felipezfr/BeverageMachine_STM32/blob/main/Fotos/2.jpeg)
+![3](https://github.com/felipezfr/BeverageMachine_STM32/blob/main/Fotos/3.jpeg)
+![4](https://github.com/felipezfr/BeverageMachine_STM32/blob/main/Fotos/4.jpeg)
