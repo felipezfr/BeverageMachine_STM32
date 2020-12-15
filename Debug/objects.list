@@ -1,7 +1,5 @@
-"Core/Src/ADC.o"
 "Core/Src/PWM.o"
 "Core/Src/capsulas.o"
-"Core/Src/controler.o"
 "Core/Src/heartBeat.o"
 "Core/Src/lcd16x2.o"
 "Core/Src/main.o"

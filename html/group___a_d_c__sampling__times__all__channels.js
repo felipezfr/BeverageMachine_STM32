@@ -1,0 +1,25 @@
+var group___a_d_c__sampling__times__all__channels =
+[
+    [ "ADC_SAMPLETIME_13CYCLES5_SMPR1ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#gac35b289f50a9b7baa6613729ff872dbe", null ],
+    [ "ADC_SAMPLETIME_13CYCLES5_SMPR2ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga5917713e764d601159d80d6d01e8fe6a", null ],
+    [ "ADC_SAMPLETIME_1CYCLE5_SMPR1ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga7a96662f9bd0fb429774526613f154e7", null ],
+    [ "ADC_SAMPLETIME_1CYCLE5_SMPR2ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#gaa1292c07842f46409fc83fc5bed6a685", null ],
+    [ "ADC_SAMPLETIME_239CYCLES5_SMPR1ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga1f73f7f89435bc2d63db39ebe9f0d72a", null ],
+    [ "ADC_SAMPLETIME_239CYCLES5_SMPR2ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#gafeb3479f9d022768e661767b6c247a15", null ],
+    [ "ADC_SAMPLETIME_28CYCLES5_SMPR1ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga02a543f59835c39016502054cf0bfc63", null ],
+    [ "ADC_SAMPLETIME_28CYCLES5_SMPR2ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#gadb18fb6faaf51b50651e2e5a0203a0b3", null ],
+    [ "ADC_SAMPLETIME_41CYCLES5_SMPR1ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga4e67a3f90595a06cd5b95ef1df6ade6e", null ],
+    [ "ADC_SAMPLETIME_41CYCLES5_SMPR2ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga6b9be33f3d49006a74ef909dc08fe6e7", null ],
+    [ "ADC_SAMPLETIME_55CYCLES5_SMPR1ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#gacc7326edc082928befeeb5ce02b3f2ab", null ],
+    [ "ADC_SAMPLETIME_55CYCLES5_SMPR2ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga6805f24c0b6a743158270cefb208a633", null ],
+    [ "ADC_SAMPLETIME_71CYCLES5_SMPR1ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#gad286da3d7be2eab1c617b4c38ccfe02d", null ],
+    [ "ADC_SAMPLETIME_71CYCLES5_SMPR2ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga821e81d0582c2a28d87d4e444ab7753c", null ],
+    [ "ADC_SAMPLETIME_7CYCLES5_SMPR1ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga9f143d6d3774d904caef4de401d01f15", null ],
+    [ "ADC_SAMPLETIME_7CYCLES5_SMPR2ALLCHANNELS", "group___a_d_c__sampling__times__all__channels.html#ga6984867eaaaafa513cf3957f6efd8a92", null ],
+    [ "ADC_SAMPLETIME_ALLCHANNELS_SMPR1BIT0", "group___a_d_c__sampling__times__all__channels.html#gaebd2df79b5d6dd744c2fe13ef77551de", null ],
+    [ "ADC_SAMPLETIME_ALLCHANNELS_SMPR1BIT1", "group___a_d_c__sampling__times__all__channels.html#ga956c6dd7c36d22338b1f02c8cf50951e", null ],
+    [ "ADC_SAMPLETIME_ALLCHANNELS_SMPR1BIT2", "group___a_d_c__sampling__times__all__channels.html#gaa49cebaf9c1607e518b5aa80843f0363", null ],
+    [ "ADC_SAMPLETIME_ALLCHANNELS_SMPR2BIT0", "group___a_d_c__sampling__times__all__channels.html#ga7f89481d55c4c17c803cc8970b8e0c9c", null ],
+    [ "ADC_SAMPLETIME_ALLCHANNELS_SMPR2BIT1", "group___a_d_c__sampling__times__all__channels.html#ga4156dd6c39351f51c68a5e20e9e90e9e", null ],
+    [ "ADC_SAMPLETIME_ALLCHANNELS_SMPR2BIT2", "group___a_d_c__sampling__times__all__channels.html#ga79d9b6d4fc9bb417c6449bf81ed3cad3", null ]
+];

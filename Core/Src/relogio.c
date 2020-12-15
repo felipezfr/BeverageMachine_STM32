@@ -59,15 +59,19 @@ void contarRelogio()
 	{
 		previousTime = HAL_GetTick();
 		seg++;
-		if (seg > 60)
+		if (seg > 59)
 		{
 			seg = 0;
 			min++;
 		}
-		if (min > 60)
+		if (min > 59)
 		{
 			min = 0;
 			hor++;
+		}
+		if (hor > 23)
+		{
+			hor = 0;
 		}
 	}
 }

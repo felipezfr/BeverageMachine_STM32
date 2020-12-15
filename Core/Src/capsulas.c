@@ -182,7 +182,8 @@ int capsulaInserida(Receita CAPSULA)
 
 /**
   * @brief Inicia o preparo passando a receita da capsula
-  * @retval
+  * @retval None
+  * @param[in] CAPSULA :Capsula a iniciar preparo
   */
 void iniciarPreparo(Receita CAPSULA)
 {
@@ -270,7 +271,7 @@ void iniciarPreparo(Receita CAPSULA)
       lcd_write_string(text);
 
       HAL_GPIO_WritePin(Y2_PORT, Y2_PIN, 1); //Liga saida de agua gelada
-      HAL_GPIO_WritePin(Y4_PORT, Y4_PIN, 1); //Liga saida de agua gelada
+      HAL_GPIO_WritePin(Y4_PORT, Y4_PIN, 1); //Liga saida CO2
       do
       {
 

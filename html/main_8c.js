@@ -1,0 +1,27 @@
+var main_8c =
+[
+    [ "ADC_SCALE", "main_8c.html#abd4b7f2b9b32ee682855abc35921dec1", null ],
+    [ "NUMBER_OF_CONVERSION", "main_8c.html#a5f62fdb6a3237b10257440bc6ced69d3", null ],
+    [ "NUMBER_OF_SAMPLES", "main_8c.html#a3992a43fac1d452edf605ff497a25030", null ],
+    [ "TELA_CAPSULA", "main_8c.html#a6506d816fd68f8166e2708e35b80160c", null ],
+    [ "TELA_RELOGIO", "main_8c.html#a90d1b2ec2de54d3bbca3c52330c2d257", null ],
+    [ "coolerPID", "main_8c.html#a7ce490195e0df9d1b9949decd6ae0f5c", null ],
+    [ "Error_Handler", "main_8c.html#a1730ffe1e560465665eb47d9264826f9", null ],
+    [ "HAL_ADC_ConvCpltCallback", "group___a_d_c___exported___functions___group2.html#gaf20a88180db1113be1e89266917d148b", null ],
+    [ "heaterPID", "main_8c.html#a1784cf91d102346257e99a6abf6c837e", null ],
+    [ "main", "main_8c.html#a840291bc02cba5474a4cb46a9b9566fe", null ],
+    [ "SystemClock_Config", "main_8c.html#a70af21c671abfcc773614a9a4f63d920", null ],
+    [ "adcAvgData", "main_8c.html#a531027a7ead3a3265b7e1f862e9d3306", null ],
+    [ "adcAvgDataT2", "main_8c.html#ada28dfb0d88c1c5f0f2decee8bb3ec55", null ],
+    [ "adcData", "main_8c.html#a82b8ae6fd686743e144a5ba0f9bcb6af", null ],
+    [ "adcDataReady", "main_8c.html#ab5e18aaca26a5f12dd66d0bcc260e3df", null ],
+    [ "contAmostras", "main_8c.html#a9007eb471a0a0d5b4fc82099652ee375", null ],
+    [ "hadc1", "main_8c.html#a22b804736f5648d52f639b2647d4ed13", null ],
+    [ "hdma_adc1", "main_8c.html#a1c126854bb1813d31ab4776b21dcc51f", null ],
+    [ "htim2", "main_8c.html#a2c80fd5510e2990a59a5c90d745c716c", null ],
+    [ "previousTimeCooler", "main_8c.html#aa8b0f149a68672eb92464991eb4056b7", null ],
+    [ "previousTimeHeater", "main_8c.html#aeb95660bec708120be4878aa53547994", null ],
+    [ "T1", "main_8c.html#ac4c7ec6bf2a7b0636c00216576186d68", null ],
+    [ "T2", "main_8c.html#a7ef8354b4de76dd7f6a12fc8f545aeb7", null ],
+    [ "tela", "main_8c.html#a0b79586b51e044db6d61c52e6efe9424", null ]
+];
